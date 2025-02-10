@@ -40,6 +40,7 @@ public class Calculator {
     }
 
     /**
+     * (Modified to take two arguments as required)
      * @return Square of a (a * b)
      */
     fun square(a: Double, b: Double): Double {
